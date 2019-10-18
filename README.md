@@ -9,6 +9,8 @@ Use Maven to build the application:
 $ mvn clean package
 ~~~
 
+If you don't haven any Maven setup there is file kept under CloudFoundryExample\runnableJarfile
+
 ## Running the application on Cloud Foundry
 
 To run the application on Cloud Foundry, first target and long into a Cloud Foundry environment, then run this command:
